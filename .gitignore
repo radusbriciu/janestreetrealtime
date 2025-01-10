@@ -2,12 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.crdownload
-.zip
-.csv
-.xlsx
-.xls
-.csv
+*.crdownload
+*.zip
+*.csv
+*.xlsx
+*.xls
+*.csv
+*.parquet
+
+
+
 # C extensions
 *.so
 
